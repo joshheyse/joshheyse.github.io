@@ -4,7 +4,7 @@
   <title><![CDATA[Josh Heyse's Blog]]></title>
   <link href="http://joshheyse.github.io/atom.xml" rel="self"/>
   <link href="http://joshheyse.github.io/"/>
-  <updated>2016-05-12T17:58:48-05:00</updated>
+  <updated>2016-05-12T18:15:53-05:00</updated>
   <id>http://joshheyse.github.io/</id>
   <author>
     <name><![CDATA[Josh Heyse]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Todo]]></title>
+    <link href="http://joshheyse.github.io/blog/2016/05/12/todo/"/>
+    <updated>2016-05-12T18:03:28-05:00</updated>
+    <id>http://joshheyse.github.io/blog/2016/05/12/todo</id>
+    <content type="html"><![CDATA[<p>In 2016, an initial blog post titled &lsquo;Hello World&rsquo; seems too easy.  The new getting started example has to be a Todo List.</p>
+
+<ul>
+<li>[x] Get the blog setup and deployed (self-fulfilling prophecy)</li>
+<li>[ ] Add the flair (37 pieces optional)</li>
+<li>[ ] Transfer over old blog content (circa 2008)</li>
+<li>[ ] Come up with some ideas to blog about (probably web things)</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
