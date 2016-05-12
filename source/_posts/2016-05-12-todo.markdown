@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Todo"
+date: 2016-05-12 18:03:28 -0500
+comments: true
+categories: 
+---
+A new blog's Todo List
+<!--more-->
+
+In 2016, an initial blog post titled 'Hello World' seems too easy.  The new getting started example has to be a Todo List.
+
+* [x] Get the blog setup and deployed (self-fulfilling prophecy)
+* [ ] Add the flair (37 pieces optional)
+* [ ] Transfer over old blog content (circa 2008)
+* [ ] Come up with some ideas to blog about (probably web things)
+
