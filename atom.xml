@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Hex-A Magazine]]></title>
+  <title><![CDATA[Josh Heyse's Blog]]></title>
   <link href="http://joshheyse.github.io/atom.xml" rel="self"/>
   <link href="http://joshheyse.github.io/"/>
-  <updated>2016-05-12T17:55:44-05:00</updated>
+  <updated>2016-05-12T17:58:48-05:00</updated>
   <id>http://joshheyse.github.io/</id>
   <author>
     <name><![CDATA[Josh Heyse]]></name>
