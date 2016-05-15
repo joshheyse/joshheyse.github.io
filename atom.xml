@@ -4,7 +4,7 @@
   <title><![CDATA[Josh Heyse's Blog]]></title>
   <link href="http://joshheyse.github.io/atom.xml" rel="self"/>
   <link href="http://joshheyse.github.io/"/>
-  <updated>2016-05-12T19:15:39-05:00</updated>
+  <updated>2016-05-14T19:36:49-05:00</updated>
   <id>http://joshheyse.github.io/</id>
   <author>
     <name><![CDATA[Josh Heyse]]></name>
@@ -18,12 +18,7 @@
     <link href="http://joshheyse.github.io/blog/2016/05/12/todo/"/>
     <updated>2016-05-12T18:03:28-05:00</updated>
     <id>http://joshheyse.github.io/blog/2016/05/12/todo</id>
-    <content type="html"><![CDATA[<p>A new blog&rsquo;s Todo List</p>
-
-<!--more-->
-
-
-<p>In 2016, an initial blog post titled &lsquo;Hello World&rsquo; seems too easy.  The new getting started example has to be a Todo List.</p>
+    <content type="html"><![CDATA[<p>In 2016, an initial blog post titled &lsquo;Hello World&rsquo; seems too easy.  The new getting started example has to be a Todo List.</p>
 
 <ul>
 <li>[x] Get the blog setup and deployed (self-fulfilling prophecy)</li>
