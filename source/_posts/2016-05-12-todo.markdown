@@ -5,8 +5,6 @@ date: 2016-05-12 18:03:28 -0500
 comments: true
 categories: 
 ---
-A new blog's Todo List
-<!--more-->
 
 In 2016, an initial blog post titled 'Hello World' seems too easy.  The new getting started example has to be a Todo List.
 
